@@ -1,6 +1,5 @@
-// Параметры Supabase добавим на следующем этапе.
-// Не размещайте здесь Secret key или service_role key.
+// Публичные параметры проекта. Здесь допустим только Publishable key.
 window.PLANER_CONFIG = {
-  supabaseUrl: "",
-  supabasePublishableKey: ""
+  supabaseUrl: "https://hyayhfsafhjtwficrkim.supabase.co",
+  supabasePublishableKey: "sb_publishable_JImImZ83jnDDtPgvfIKnVQ_xp0kHVpc"
 };
